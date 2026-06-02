@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ปวรวรรณ ย่องใย | Team 06 | Cloud / Integration Dev  | [example evidence](docs/evidence/67050164-Poworawan.md) | - |
+| ปวรวรรณ ย่องใย | Team 06 | Cloud / Integration Dev  | [evidence](docs/evidence/67050164-Poworawan.md) | - |
 
 ---
 
