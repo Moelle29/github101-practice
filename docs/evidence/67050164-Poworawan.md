@@ -17,7 +17,7 @@
 
 - README link:https://github.com/Moelle29/github101-practice/blob/main/README.md
 - Commit link:https://github.com/Moelle29/github101-practice/commits/main/
-- Issue link:
+- Issue link:https://github.com/Moelle29/github101-practice/blob/main/docs/issues/67050164-Poworawan-issue.md
 
 ## 5. Reflection
 
