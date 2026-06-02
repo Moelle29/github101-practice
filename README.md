@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ปวรวรรณ ย่องใย | Team 06 | Cloud / Integration Dev  | [evidence](docs/evidence/67050164-Poworawan.md) | - |
+| ปวรวรรณ ย่องใย | Team 06 | Cloud / Integration Dev  | [evidence](docs/evidence/67050164-Poworawan.md) | [Issue](https://github.com/Moelle29/github101-practice/blob/main/docs/issues/67050164-Poworawan-issue.md) |
 
 ---
 
